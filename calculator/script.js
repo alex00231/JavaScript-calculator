@@ -1,6 +1,4 @@
  var num1, num2, result, out;
- 
- out = document.getElementById('out');
 
  function plus() {
  	num1 = document.getElementById('n1').value; 
